@@ -1,0 +1,19 @@
+.MatchPage {
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+  gap: 20px 30px;
+  margin: 20px 0;
+
+  .choose-year {
+    margin-bottom: 20px;
+    margin-top: 10px;
+  }
+
+  .year-selector {
+    justify-self: end;
+  }
+
+  .match-page-header {
+    margin-bottom: 16px;
+  }
+}

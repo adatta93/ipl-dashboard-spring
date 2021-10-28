@@ -1,0 +1,25 @@
+.LastMatch {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 25px 35px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+
+  .vs {
+    font-size: 1.1rem;
+  }
+
+  .match-date,
+  .match-venue,
+  .match-result {
+    margin-top: 10px;
+  }
+
+  .other-detail {
+    text-align: right;
+    & > p {
+      margin-bottom: 20px;
+      font-size: 1.3rem;
+    }
+  }
+}

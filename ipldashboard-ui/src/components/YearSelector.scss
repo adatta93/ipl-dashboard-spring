@@ -1,0 +1,16 @@
+.YearSelector {
+  ol {
+    list-style: none;
+    text-align: right;
+
+    li {
+      margin: 10px 0;
+
+      .active {
+        font-size: 1.2rem;
+        color: white;
+        transition: 0.3s all ease-in;
+      }
+    }
+  }
+}

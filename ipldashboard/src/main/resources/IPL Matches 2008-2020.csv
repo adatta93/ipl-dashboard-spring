@@ -815,3 +815,63 @@ id,city,date,player_of_match,venue,neutral_venue,team1,team2,toss_winner,toss_de
 1237178,Abu Dhabi,2020-11-06,KS Williamson,Sheikh Zayed Stadium,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,6,N,NA,PR Reiffel,S Ravi
 1237180,Abu Dhabi,2020-11-08,MP Stoinis,Sheikh Zayed Stadium,0,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,runs,17,N,NA,PR Reiffel,S Ravi
 1237181,Dubai,2020-11-10,TA Boult,Dubai International Cricket Stadium,0,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,wickets,5,N,NA,CB Gaffaney,Nitin Menon
+1237182,Chennai,2021-04-09,Harshal Patel,MA Chidambaram Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,wickets,2,N,NA,Nitin Menon,K. Ananthapadmanabhan
+1237183,Mumbai,2021-04-10,Shikhar Dhawan,Wankhede Stadium,0,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,7,N,NA,Virender Sharma,Anil Chaudhary
+1237184,Chennai,2021-04-11,Nitish Rana,MA Chidambaram Stadium,0,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,10,N,NA,K. Ananthapadmanabhan,Nitin Menon
+1237185,Mumbai,2021-04-12,Sanju Samson,Wankhede Stadium,0,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Punjab Kings,runs,4,N,NA,S. Ravi,Anil Chaudhary
+1237186,Chennai,2021-04-13,Rahul Chahar,M. A. Chidambaram Stadium,0,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,runs,10,N,NA,Chris Gaffaney,C. Shamshuddin
+1237187,Chennai,2021-04-14,Glenn Maxwell,M. A. Chidambaram Stadium,0,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Royal Challengers Bangalore,runs,6,N,NA,Nitin Menon,Ulhas Gandhe
+1237188,Mumbai,2021-04-15,Jaydev Unadkat,Wankhede Stadium,0,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3,N,NA,Virender Sharma,S. Ravi
+1237189,Mumbai,2021-04-16,Deepak Chahar,Wankhede Stadium,0,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6,N,NA,Anil Dandekar,Anil Chaudhary
+1237190,Chennai,2021-04-17,Kieron Pollard,M. A. Chidambaram Stadium,0,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,13,N,NA,Chris Gaffaney,K. Srinivasan
+1237191,Chennai,2021-04-18,AB de Villiers,M. A. Chidambaram Stadium,0,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,38,N,NA,Nitin Menon,C. Shamshuddin
+1237192,Mumbai,2021-04-18,Shikhar Dhawan,Wankhede Stadium,0,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,6,N,NA,Paul Reiffel,Anil Chaudhary
+1237193,Mumbai,2021-04-19,Moeen Ali,Wankhede Stadium,0,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,runs,45,N,NA,Paul Reiffel,Virender Sharma
+1237194,Chennai,2021-04-20,Amit Mishra,M. A. Chidambaram Stadium,0,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Delhi Capitals,wickets,6,N,NA,Chris Gaffaney,C. Shamshuddin
+1237195,Chennai,2021-04-21,Jonny Bairstow,M. A. Chidambaram Stadium,0,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Sunrisers Hyderabad,wickets,9,N,NA,K. Srinivasan,Nitin Menon
+1237196,Mumbai,2021-04-21,Faf du Plessis,Wankhede Stadium,0,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Chennai Super Kings,runs,18,N,NA,Paul Reiffel,Anil Dandekar
+1237197,Mumbai,2021-04-22,Devdutt Padikkal,Wankhede Stadium,0,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,10,N,NA,S. Ravi,JR Madangopal
+1237198,Chennai,2021-04-23,KL Rahul,M. A. Chidambaram Stadium,0,Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings,wickets,9,N,NA,Nitin Menon,C. Shamshuddin
+1237199,Mumbai,2021-04-24,Chris Morris,Wankhede Stadium,0,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,wickets,6,N,NA,S. Ravi,Navdeep Singh Sidhu
+1237200,Mumbai,2021-04-25,Ravindra Jadeja,Wankhede Stadium,0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,runs,69,N,NA,Virender Sharma,Bruce Oxenford
+1237201,Chennai,2021-04-25,Prithvi Shaw,M. A. Chidambaram Stadium,0,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,tie,NA,N,NA,K. Ananthapadmanabhan,Chris Gaffaney
+1237202,Ahmedabad,2021-04-26,Eoin Morgan,Narendra Modi Stadium,0,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5,N,NA,Paul Reiffel,Yeshwant Barde
+1237203,Ahmedabad,2021-04-27,AB de Villiers,Narendra Modi Stadium,0,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Royal Challengers Bangalore,runs,1,N,NA,Bruce Oxenford,Virender Sharma
+1237204,Delhi,2021-04-28,Ruturaj Gaikwad,Arun Jaitley Stadium,0,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,wickets,7,N,NA,O Nandan,C. Shamshuddin
+1237205,Delhi,2021-04-29,Quinton de Kock,Arun Jaitley Stadium,0,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,wickets,7,N,NA,Chris Gaffaney,K. Ananthapadmanabhan
+1237206,Ahmedabad,2021-04-29,Prithvi Shaw,Narendra Modi Stadium,0,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,wickets,7,N,NA,Anil Chaudhary,Yeshwant Barde
+1237207,Ahmedabad,2021-04-30,Harpreet Brar,Narendra Modi Stadium,0,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings,runs,34,N,NA,Virender Sharma,S. Ravi
+1237208,Delhi,2021-05-01,Kieron Pollard,Arun Jaitley Stadium,0,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,wickets,4,N,NA,K. Ananthapadmanabhan,O Nandan
+1237209,Delhi,2021-05-02,Jos Buttler,Arun Jaitley Stadium,0,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,runs,55,N,NA,Chris Gaffaney,C. Shamshuddin
+1237210,Ahmedabad,2021-05-02,Mayank Agarwal,Narendra Modi Stadium,0,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,wickets,7,N,NA,Anil Dandekar, AnilChaudhary
+1237211,Dubai,2021-09-19,Ruturaj Gaikwad,Dubai International Stadium,0,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,20,N,NA,Nitin Menon,Richard Illingworth
+1237212,Abu Dhabi,2021-09-20,Varun Chakravarthy,Zayed Cricket Stadium,0,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Kolkata Knight Riders,wickets,9,N,NA,Chris Gaffaney,S Ravi
+1237213,Dubai,2021-09-21,Kartik Tyagi,Dubai International Stadium,0,Punjab Kings,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,runs,2,N,NA,Michael Gough,Anil Chaudhary
+1237214,Dubai,2021-09-22,Anrich Nortje,Dubai International Stadium,0,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Delhi Capitals,wickets,8,N,NA,Michael Gough,Anil Chaudhary
+1237215,Abu Dhabi,2021-09-23,Sunil Narine,Zayed Cricket Stadium,0,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7,N,NA,S Ravi,Virender Sharma
+1237216,Sharjah,2021-09-24,Dwayne Bravo,Sharjah Cricket Stadium,0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,wickets,6,N,NA,S Ravi,Virender Sharma
+1237217,Abu Dhabi,2021-09-25,Shreyas Iyer,Zayed Cricket Stadium,0,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Delhi Capitals,runs,33,N,NA,Chris Gaffaney,Ulhas Gandhe
+1237218,Sharjah,2021-09-25,Jason Holder,Sharjah Cricket Stadium,0,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Punjab Kings,runs,5,N,NA,S Ravi,Virender Sharma
+1237219,Abu Dhabi,2021-09-26,Ravindra Jadeja,Zayed Cricket Stadium,0,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,wickets,2,N,NA,Tapan Sharma,Chris Gaffaney
+1237220,Dubai,2021-09-26,Glenn Maxwell,Dubai International Stadium,0,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Royal Challengers Bangalore,runs,54,N,NA,Anil Chaudhary,Michael Gough
+1237221,Dubai,2021-09-27,Jason Roy,Dubai International Stadium,0,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad,wickets,7,N,NA,K. Ananthapadmanabhan,Navdeep Singh Sidhu
+1237222,Sharjah,2021-09-28,Sunil Narine,Sharjah Cricket Stadium,0,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,3,N,NA,Khalid Hussen Saiyed,Nitin Menon
+1237223,Abu Dhabi,2021-09-28,Kieron Pollard,Zayed Cricket Stadium,0,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Mumbai Indians,wickets,6,N,NA,Virender Sharma,S Ravi
+1237224,Dubai,2021-09-29,Yuzvendra Chahal,Dubai International Stadium,0,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7,N,NA,Anil Dandekar,K. Ananthapadmanabhan
+1237225,Sharjah,2021-09-30,Josh Hazlewood,Sharjah Cricket Stadium,0,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6,N,NA,Nitin Menon,Yeshwant Barde
+1237226,Dubai,2021-10-01,KL Rahul,Dubai International Stadium,0,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,5,N,NA,Richard Illingworth,K. Ananthapadmanabhan
+1237227,Sharjah,2021-10-02,Axar Patel,Sharjah Cricket Stadium,0,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,4,N,NA,Anil Chaudhary,Michael Gough
+1237228,Abu Dhabi,2021-10-02,Ruturaj Gaikwad,Zayed Cricket Stadium,0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7,N,NA,Chris Gaffaney,Virender Sharma
+1237229,Sharjah,2021-10-03,Glenn Maxwell,Sharjah Cricket Stadium,0,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,6,N,NA,K. Ananthapadmanabhan,Richard Illingworth
+1237230,Dubai,2021-10-03,Shubman Gill,Dubai International Stadium,0,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,6,N,NA,Michael Gough,J R Madangopal
+1237231,Dubai,2021-10-04,Axar Patel,Dubai International Stadium,0,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,3,N,NA,Anil Chaudhary,Nitin Menon
+1237232,Sharjah,2021-10-05,Nathan Coulter-Nile,Sharjah Cricket Stadium,0,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,8,N,NA,Michael Gough,Anil Chaudhary
+1237233,Abu Dhabi,2021-10-06,Kane Williamson,Zayed Cricket Stadium,0,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,4,N,NA,Ulhas Gandhe,S Ravi
+1237234,Dubai,2021-10-07,KL Rahul,Dubai International Stadium,0,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,6,N,NA,Richard Illingworth,K. Srinivasan
+1237235,Sharjah,2021-10-07,Shivam Mavi,Sharjah Cricket Stadium,0,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Kolkata Knight Riders,runs,86,N,NA,Khalid Hussen Saiyed,Michael Gough
+1237236,Abu Dhabi,2021-10-08,Ishan Kishan,Zayed Cricket Stadium,0,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,42,N,NA,Virender Sharma,Tapan Sharma
+1237237,Dubai,2021-10-08,Srikar Bharat,Dubai International Stadium,0,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7,N,NA,Nitin Menon,K. Ananthapadmanabhan
+1237238,Dubai,2021-10-10,Ruturaj Gaikwad,Dubai International Stadium,1,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,4,Y,NA,Nitin Menon,Richard Illingworth
+1237239,Sharjah,2021-10-11,Sunil Narine,Sharjah Cricket Stadium,1,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Kolkata Knight Riders,wickets,4,Y,NA,Chris Gaffaney,Virender Sharma
+1237240,Sharjah,2021-10-13,Venkatesh Iyer,Sharjah Cricket Stadium,1,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,3,Y,NA,K. Ananthapadmanabhan, Michael Gough
+1237241,Dubai,2021-10-15,Faf du Plessis,Dubai International Stadium,1,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Chennai Super Kings,runs,27,Y,NA,Nitin Menon,Richard Illingworth

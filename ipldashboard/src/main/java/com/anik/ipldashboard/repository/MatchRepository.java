@@ -14,7 +14,7 @@ public interface MatchRepository extends JpaRepository<Match, Long> {
 
 	List<Match> findByFirstInnTeamOrSecondInnTeamOrderByDateDesc(String teamName1, String teamName2, Pageable pageable);
 	
-	@Query("from Match where (first_inn_team=?1 or second_inn_team=?2) and date between ?3 and ?4")
+	@Query("from Match where (first_inn_team=?1 or second_inn_team=?2) and date between ?3 and ?4 order by id desc")
 	List<Match> findByYear(String teamName1, String teamName2, LocalDate dateStart, LocalDate dateEnd);
 	
 	default List<Match> findLatestMatchesByTeam(String teamName, int count) {

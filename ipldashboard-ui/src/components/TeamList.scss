@@ -1,0 +1,17 @@
+.team-list {
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  background-color: white;
+
+  a {
+    margin: 10px;
+  }
+
+  img {
+    width: 64px;
+    height: 64px;
+    box-shadow: 0 0 6px #0013c5;
+    border-radius: 50%;
+  }
+}

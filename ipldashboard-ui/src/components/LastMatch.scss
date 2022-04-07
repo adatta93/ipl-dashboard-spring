@@ -16,10 +16,21 @@
   }
 
   .other-detail {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px 50px;
     text-align: right;
-    & > p {
-      margin-bottom: 20px;
-      font-size: 1.3rem;
+    align-items: center;
+
+    div {
+      align-self: start;
+    }
+  }
+
+  .toss-result {
+    img {
+      width: 16px;
+      margin-left: 10px;
     }
   }
 }

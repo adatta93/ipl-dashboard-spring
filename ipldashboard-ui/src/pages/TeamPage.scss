@@ -3,15 +3,12 @@
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
   gap: 10px;
+  padding: 0 20px;
 
   .team-name-section {
     grid-column: span 3;
-    justify-self: start;
+    /* justify-self: start; */
     align-self: center;
-
-    .team-name {
-      font-size: 3rem;
-    }
   }
 
   .win-loss-section {

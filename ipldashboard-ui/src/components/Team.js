@@ -3,10 +3,15 @@ import "./Team.scss";
 
 export const Team = ({ teamName }) => {
   return (
-    <div className="Team">
-      <h2>
-        <Link to={`/teams/${teamName}`}>{teamName}</Link>
-      </h2>
-    </div>
+    <Link to={`/teams/${teamName}`}>
+      <div className="Team">
+        <img
+          src={`/logos/${teamName}-Logo.png`}
+          alt={teamName}
+          className="Team-Logo"
+        />
+        <h2 className="Team-Name">{teamName}</h2>
+      </div>
+    </Link>
   );
 };

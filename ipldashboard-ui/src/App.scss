@@ -1,11 +1,19 @@
 .App {
-  padding: 0 20px;
+  padding: 0 0px;
 }
 
 .won-card {
-  background-color: #1c7043;
+  background-color: #025f2d;
 }
 
 .lost-card {
-  background-color: #9a3145;
+  background-color: #83021b;
+}
+
+.header-section {
+  background: linear-gradient(131deg, #18184a 30%, #19398a 70%, #18184a 100%);
+  padding: 15px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }

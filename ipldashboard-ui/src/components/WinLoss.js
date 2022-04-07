@@ -16,24 +16,26 @@ export const WinLoss = ({ team }) => {
 
   return (
     <>
-      <span style={{ marginBottom: "10px" }}>
-        Total - {team.totalMatches} | Wins - {team.totalWins} | Losses -
+      <div style={{ marginBottom: "10px" }}>
+        Total - {team.totalMatches} | Wins - {team.totalWins} | Losses -{" "}
         {totalLosses}
-      </span>
-      <PieChart
-        data={[
-          {
-            title: "Losses " + totalLosses,
-            value: totalLosses,
-            color: "#9a3145",
-          },
-          {
-            title: "Wins " + team.totalWins,
-            value: team.totalWins,
-            color: "#1c7043",
-          },
-        ]}
-      />
+      </div>
+      <div style={{ height: "180px" }}>
+        <PieChart
+          data={[
+            {
+              title: "Losses " + totalLosses,
+              value: totalLosses,
+              color: "#9a3145",
+            },
+            {
+              title: "Wins " + team.totalWins,
+              value: team.totalWins,
+              color: "#1c7043",
+            },
+          ]}
+        />
+      </div>
     </>
   );
 };

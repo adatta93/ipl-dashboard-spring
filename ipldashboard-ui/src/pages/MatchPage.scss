@@ -1,8 +1,9 @@
 .MatchPage {
   display: grid;
-  grid-template-columns: 1fr 5fr;
-  gap: 20px 30px;
+  grid-template-columns: 1fr 7fr;
+  gap: 30px;
   margin: 20px 0;
+  padding: 0 20px;
 
   .choose-year {
     margin-bottom: 20px;
@@ -15,5 +16,29 @@
 
   .match-page-header {
     margin-bottom: 16px;
+  }
+
+  .win-loss-counter {
+    display: flex;
+    align-items: center;
+    margin: 16px 0;
+
+    div {
+      margin: 0 15px;
+      padding: 5px 10px;
+    }
+
+    .total-count {
+      background-color: white;
+      color: black;
+    }
+
+    .win-count {
+      background-color: #1c7043;
+    }
+
+    .loss-count {
+      background-color: #9a3145;
+    }
   }
 }

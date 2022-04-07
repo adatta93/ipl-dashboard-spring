@@ -6,11 +6,11 @@
 
 a {
   text-decoration: none;
-  color: #d0d4d0;
+  color: #fff;
 }
 
 a:hover {
-  color: #fff;
+  color: #d0d4d0;
 }
 
 body {
@@ -19,8 +19,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #282c34;
+  background-color: #000715;
   color: white;
-  max-width: 1200px;
   margin: 0 auto;
 }
